@@ -1,0 +1,23 @@
+{
+    "name": "djs",
+    "version": "1.0.0",
+    "description": "",
+    "main": "shard.js",
+    "scripts": {
+        "start": "node shard.js",
+        "test": "nodemon shard.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "cross-fetch": "^3.1.4",
+        "discord.js": "^13.3.1",
+        "glob": "^7.1.7",
+        "moment": "^2.29.1",
+        "mongoose": "^6.0.2",
+        "nodeactyl": "^3.2.0",
+        "util": "^0.12.4"
+    }
+}
